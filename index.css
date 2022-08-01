@@ -1,0 +1,10 @@
+#toggleText {
+    font-size: 120px; 
+    text-align: center;
+}
+
+span {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: underline;
+}
